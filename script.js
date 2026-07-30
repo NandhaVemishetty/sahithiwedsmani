@@ -19,7 +19,7 @@ const eventData = {
   },
   sangeeth: {
     ritual: 'Celebration 3', day: 'Saturday, 15 August 2026', title: 'Sangeeth Night',
-    time: '6:00 PM', venue: 'IMA Hall, Mahabubabad', image: 'assets/sangeeth.png', alt: 'Sangeeth celebration illustration',
+    time: '6:00 PM', venue: 'Nandana A/C Gardens, Mahabubabad', image: 'assets/sangeeth.png', alt: 'Sangeeth celebration illustration',
     theme: 'sangeeth-theme', tagline: 'A vibrant night of music, dance and celebration.',
     note: 'Bring your energy and join us for an unforgettable evening.'
   },
