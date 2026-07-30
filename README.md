@@ -6,7 +6,7 @@ A responsive, GitHub Pages-ready wedding invitation website.
 
 - Haldi — 14 August 2026, 10:30 AM — Bride's House
 - Mehendi — 14 August 2026, 5:00 PM — Bride's House
-- Sangeeth — 15 August 2026, 6:00 PM — IMA Hall, Mahabubabad
+- Sangeeth — 15 August 2026, 6:00 PM — Nandana A/C Gardens, Mahabubabad
 - Wedding — 16 August 2026, 10:45 AM — Nandana A/C Gardens, Mahabubabad
 - Wedding lunch — 12:30 PM — Nandana A/C Gardens, Mahabubabad
 
